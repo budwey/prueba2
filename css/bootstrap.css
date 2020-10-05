@@ -8997,7 +8997,7 @@ a:link, a:visited, a:active {
     width: 10vw;
     height: 15vh;
     padding: 0rem;
-    background-image: url("/images/logo.png");
+    background-image: url("images/logo.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
